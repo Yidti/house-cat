@@ -13,7 +13,7 @@ python3.10 main.py
 ## Examples
 
 ![sample-1](https://github.com/Yidti/house-cat/blob/master/sample/sample-1.png)
-![sample-2](https://github.com/Yidti/houses-cat/blob/master/sample/sample-2.png)
+![sample-2](https://github.com/Yidti/house-cat/blob/master/sample/sample-2.png)
 
 ## Introduction - [Web Crawler](https://en.wikipedia.org/wiki/Web_crawler)
 
